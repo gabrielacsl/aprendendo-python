@@ -1,2 +1,2 @@
-nome = input('')
+nome = input()
 print(nome) 
