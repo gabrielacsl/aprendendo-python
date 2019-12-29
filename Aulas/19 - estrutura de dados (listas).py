@@ -8,5 +8,5 @@ idade.sort(reverse = True)
 idade.reverse() #inverte os elementos 
 
 print(idade)
-print(max('maior: {}'.format(idade))) # maior valor da lista
+print(max(idade)) # maior valor da lista
 print(min(idade)) # menor valor da lista
